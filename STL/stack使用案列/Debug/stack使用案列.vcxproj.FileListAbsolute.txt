@@ -1,0 +1,2 @@
+D:\C++\STL\stack使用案列\Debug\stack使用案列.exe
+D:\C++\STL\stack使用案列\Debug\stack使用案列.pdb

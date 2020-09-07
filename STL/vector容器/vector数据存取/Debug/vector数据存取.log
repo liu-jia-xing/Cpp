@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\C++\STL\vector容器\vector数据存取\main.cpp(12,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++\STL\vector容器\vector数据存取\main.cpp(18,19): warning C4018: “<”: 有符号/无符号不匹配
+  vector数据存取.vcxproj -> D:\C++\STL\vector容器\vector数据存取\Debug\vector数据存取.exe

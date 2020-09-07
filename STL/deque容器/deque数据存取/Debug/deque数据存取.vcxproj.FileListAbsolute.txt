@@ -1,0 +1,2 @@
+C:\Users\liu\source\repos\deque数据存取\Debug\deque数据存取.exe
+C:\Users\liu\source\repos\deque数据存取\Debug\deque数据存取.pdb

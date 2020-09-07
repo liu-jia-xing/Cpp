@@ -1,0 +1,2 @@
+D:\C++\stl\stl01\Debug\stl01.exe
+D:\C++\stl\stl01\Debug\stl01.pdb

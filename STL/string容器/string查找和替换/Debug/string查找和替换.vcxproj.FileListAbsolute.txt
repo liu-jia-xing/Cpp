@@ -1,0 +1,2 @@
+D:\C++\stl\string查找和替换\Debug\string查找和替换.exe
+D:\C++\stl\string查找和替换\Debug\string查找和替换.pdb

@@ -1,0 +1,2 @@
+D:\C++\STL\vector容器\vector预留空间\Debug\vector预留空间.exe
+D:\C++\STL\vector容器\vector预留空间\Debug\vector预留空间.pdb

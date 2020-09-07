@@ -1,0 +1,2 @@
+D:\C++\stl\string字符串比较\Debug\string字符串比较.exe
+D:\C++\stl\string字符串比较\Debug\string字符串比较.pdb

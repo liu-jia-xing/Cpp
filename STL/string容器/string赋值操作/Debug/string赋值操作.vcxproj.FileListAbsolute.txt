@@ -1,0 +1,2 @@
+D:\C++\stl\string赋值操作\Debug\string赋值操作.exe
+D:\C++\stl\string赋值操作\Debug\string赋值操作.pdb

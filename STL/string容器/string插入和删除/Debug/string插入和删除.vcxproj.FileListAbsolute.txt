@@ -1,0 +1,2 @@
+D:\C++\stl\string插入和删除\Debug\string插入和删除.exe
+D:\C++\stl\string插入和删除\Debug\string插入和删除.pdb

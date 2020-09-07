@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\C++\stl\string字符串存取\main.cpp(9,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++\stl\string字符串存取\main.cpp(14,20): warning C4018: “<”: 有符号/无符号不匹配
+  string字符串存取.vcxproj -> D:\C++\stl\string字符串存取\Debug\string字符串存取.exe

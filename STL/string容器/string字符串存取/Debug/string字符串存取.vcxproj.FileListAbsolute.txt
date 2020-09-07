@@ -1,0 +1,2 @@
+D:\C++\stl\string字符串存取\Debug\string字符串存取.exe
+D:\C++\stl\string字符串存取\Debug\string字符串存取.pdb

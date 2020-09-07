@@ -1,0 +1,2 @@
+D:\C++\STL\评委打分案例\Debug\评委打分案例.exe
+D:\C++\STL\评委打分案例\Debug\评委打分案例.pdb
